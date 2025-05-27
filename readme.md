@@ -34,7 +34,7 @@ cargo run
 and the program will:
 - Generate data with noise
 - Cluster it
-- Produce a `.csv` with the data and clusters (including data before noise for inspeciton)
+- Produce a `.csv` with the data and clusters (including data prior to adding noise for inspection)
 - Produce a plot in `.png` format
 
 
