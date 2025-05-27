@@ -1,0 +1,33 @@
+# Rust build artifacts
+/target
+**/*.rs.bk
+
+# Cargo files
+Cargo.lock
+
+# Editor/IDE temp files
+*.swp
+*.swo
+*.tmp
+*.log
+*.bak
+*.backup
+*~
+
+# VSCode
+.vscode/
+
+# JetBrains
+.idea/
+
+# By default ignore generated images and CSVs...
+*.csv
+*.png
+
+# ...but allow specific files as tracked examples:
+!clusters.png
+!final_clustered.csv
+
+# OS-specific files
+.DS_Store
+Thumbs.db
