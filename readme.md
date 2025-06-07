@@ -1,5 +1,7 @@
 # 🧪 Clustering in Rust with Polars, Linfa, & Plotters
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)  [![Rust](https://img.shields.io/badge/Rust-1.87.0-orange)](https://www.rust-lang.org/)
+
 This project demonstrates a simple unsupervised learning pipeline in Rust:
 
 - ✨ Randomly generated clustered data with Gaussian noise
